@@ -1,7 +1,7 @@
 # Chess Game
 
 
-![Alt text](src/image/screenshot.png?raw=true "Optional Title")
+![Alt text](screenshot.png?raw=true "Optional Title")
 
 
 Simple and basic Chess game with 2 player mode.
