@@ -9,4 +9,4 @@ Simple and basic Chess game with 2 player mode. <br>
 In Jan 2016 I have start this project which written in Java (Eclipse Platform )
 
 
-https://raw.githubusercontent.com/user/repository/branch/chess.jar
+Download the `.jar` file [here](/target/chess.jar)
