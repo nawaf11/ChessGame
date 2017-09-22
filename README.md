@@ -1,8 +1,9 @@
 # Chess Game
 
 
-![Alt text](screenshot.png?raw=true "Optional Title")
+![Alt text](screenshot.png?raw=true "Screenshot")
 
 
-Simple and basic Chess game with 2 player mode.
-In Jan 31 2016 this app written in java in Eclipse Platform 
+Simple and basic Chess game with 2 player mode. <br>
+
+In Jan 2016 I have start this project which written in Java (Eclipse Platform )
