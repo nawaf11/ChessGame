@@ -1,5 +1,6 @@
 # Chess Game
 
+![alt text](screenshot.png)
 
 Simple and basic Chess game with 2 player mode. <br>
 
