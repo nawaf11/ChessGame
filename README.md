@@ -1,7 +1,7 @@
 # Chess Game
 
 
-![Screenshot](screenshot.png "Screenshot")
+![Screenshot](screenshot.png?raw="true" "Screenshot")
 
 
 Simple and basic Chess game with 2 player mode. <br>
