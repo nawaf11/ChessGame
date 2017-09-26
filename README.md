@@ -1,7 +1,7 @@
 # Chess Game
 
 
-![Screenshot](screenshot.png?raw="true" "Screenshot")
+![Screenshot](https://github.com/nawaf11/chessGame/blob/master/screenshot.png)
 
 
 Simple and basic Chess game with 2 player mode. <br>
