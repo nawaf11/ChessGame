@@ -1,7 +1,7 @@
 # Chess Game
 
 
-![Screenshot](shutterstock_304659113tech.jpg)
+![Screenshot](shutterstock_304659113tech.jpg?raw=true)
 
 
 Simple and basic Chess game with 2 player mode. <br>
