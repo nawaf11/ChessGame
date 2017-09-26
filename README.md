@@ -2,6 +2,7 @@
 
 
 ![Screenshot](shutterstock_304659113tech.jpg?raw=true)
+![ScreenShot](https://raw.github.com/nawaf11/chessGame/master/shutterstock_304659113tech.jpg)
 
 
 Simple and basic Chess game with 2 player mode. <br>
